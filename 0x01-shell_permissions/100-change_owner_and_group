@@ -1,1 +1,2 @@
-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
+#!/bin/bash
+chown vincent:staff *
